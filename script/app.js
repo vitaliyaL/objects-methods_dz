@@ -1,4 +1,4 @@
-name = "Vita";
+name = "Vita"; 
 const user = {
   name: "Vitaliya",
   surname: "Laschenko",
@@ -35,4 +35,4 @@ function levels(obj) {
   }
   return flag;
 }
-console.log(levels(user));
+console.log(levels(user)); 
