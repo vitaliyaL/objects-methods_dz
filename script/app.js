@@ -3,6 +3,7 @@ const user = {
   name: "Vitaliya",
   surname: "Laschenko",
   age: 21,
+  pets: cat,
 };
 console.log(user);
 user.car = "Renault";
